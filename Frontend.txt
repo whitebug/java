@@ -1,0 +1,13 @@
+public class Frontend extends HttpServlet{
+	private String login = '';
+	public void doGet(HttpServletRequest request, 
+	HttpServletResponse response)
+	thorows ServletExeption, IOException{
+	}
+	public void doPost(HttpServletRequest request, 
+						HttpServletResponse response)
+						throws ServletExeption, IOException{
+						}
+	}
+
+}
